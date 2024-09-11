@@ -1,0 +1,16 @@
+C:\Users\Sam\Desktop\CloudAzure-Jensen\DemoObjectorienteringIntroduktion\DemoObjectorienteringIntroduktion\bin\Debug\net8.0-windows\DemoObjectorienteringIntroduktion.exe
+C:\Users\Sam\Desktop\CloudAzure-Jensen\DemoObjectorienteringIntroduktion\DemoObjectorienteringIntroduktion\bin\Debug\net8.0-windows\DemoObjectorienteringIntroduktion.deps.json
+C:\Users\Sam\Desktop\CloudAzure-Jensen\DemoObjectorienteringIntroduktion\DemoObjectorienteringIntroduktion\bin\Debug\net8.0-windows\DemoObjectorienteringIntroduktion.runtimeconfig.json
+C:\Users\Sam\Desktop\CloudAzure-Jensen\DemoObjectorienteringIntroduktion\DemoObjectorienteringIntroduktion\bin\Debug\net8.0-windows\DemoObjectorienteringIntroduktion.dll
+C:\Users\Sam\Desktop\CloudAzure-Jensen\DemoObjectorienteringIntroduktion\DemoObjectorienteringIntroduktion\bin\Debug\net8.0-windows\DemoObjectorienteringIntroduktion.pdb
+C:\Users\Sam\Desktop\CloudAzure-Jensen\DemoObjectorienteringIntroduktion\DemoObjectorienteringIntroduktion\obj\Debug\net8.0-windows\DemoObjectorienteringIntroduktion.FormCreateUser.resources
+C:\Users\Sam\Desktop\CloudAzure-Jensen\DemoObjectorienteringIntroduktion\DemoObjectorienteringIntroduktion\obj\Debug\net8.0-windows\DemoObjectorienteringIntroduktion.csproj.GenerateResource.cache
+C:\Users\Sam\Desktop\CloudAzure-Jensen\DemoObjectorienteringIntroduktion\DemoObjectorienteringIntroduktion\obj\Debug\net8.0-windows\DemoObjectorienteringIntroduktion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sam\Desktop\CloudAzure-Jensen\DemoObjectorienteringIntroduktion\DemoObjectorienteringIntroduktion\obj\Debug\net8.0-windows\DemoObjectorienteringIntroduktion.AssemblyInfoInputs.cache
+C:\Users\Sam\Desktop\CloudAzure-Jensen\DemoObjectorienteringIntroduktion\DemoObjectorienteringIntroduktion\obj\Debug\net8.0-windows\DemoObjectorienteringIntroduktion.AssemblyInfo.cs
+C:\Users\Sam\Desktop\CloudAzure-Jensen\DemoObjectorienteringIntroduktion\DemoObjectorienteringIntroduktion\obj\Debug\net8.0-windows\DemoObjectorienteringIntroduktion.csproj.CoreCompileInputs.cache
+C:\Users\Sam\Desktop\CloudAzure-Jensen\DemoObjectorienteringIntroduktion\DemoObjectorienteringIntroduktion\obj\Debug\net8.0-windows\DemoObjectorienteringIntroduktion.dll
+C:\Users\Sam\Desktop\CloudAzure-Jensen\DemoObjectorienteringIntroduktion\DemoObjectorienteringIntroduktion\obj\Debug\net8.0-windows\refint\DemoObjectorienteringIntroduktion.dll
+C:\Users\Sam\Desktop\CloudAzure-Jensen\DemoObjectorienteringIntroduktion\DemoObjectorienteringIntroduktion\obj\Debug\net8.0-windows\DemoObjectorienteringIntroduktion.pdb
+C:\Users\Sam\Desktop\CloudAzure-Jensen\DemoObjectorienteringIntroduktion\DemoObjectorienteringIntroduktion\obj\Debug\net8.0-windows\DemoObjectorienteringIntroduktion.genruntimeconfig.cache
+C:\Users\Sam\Desktop\CloudAzure-Jensen\DemoObjectorienteringIntroduktion\DemoObjectorienteringIntroduktion\obj\Debug\net8.0-windows\ref\DemoObjectorienteringIntroduktion.dll

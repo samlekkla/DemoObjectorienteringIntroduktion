@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sam\\Desktop\\CloudAzure-Jensen\\DemoObjectorienteringIntroduktion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FCD4DBD5-524D-4A2A-B72F-FDAC8030271A}|DemoObjectorienteringIntroduktion\\DemoObjectorienteringIntroduktion.csproj|c:\\users\\sam\\desktop\\cloudazure-jensen\\demoobjectorienteringintroduktion\\demoobjectorienteringintroduktion\\formcreateuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCD4DBD5-524D-4A2A-B72F-FDAC8030271A}|DemoObjectorienteringIntroduktion\\DemoObjectorienteringIntroduktion.csproj|solutionrelative:demoobjectorienteringintroduktion\\formcreateuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCD4DBD5-524D-4A2A-B72F-FDAC8030271A}|DemoObjectorienteringIntroduktion\\DemoObjectorienteringIntroduktion.csproj|c:\\users\\sam\\desktop\\cloudazure-jensen\\demoobjectorienteringintroduktion\\demoobjectorienteringintroduktion\\class\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCD4DBD5-524D-4A2A-B72F-FDAC8030271A}|DemoObjectorienteringIntroduktion\\DemoObjectorienteringIntroduktion.csproj|solutionrelative:demoobjectorienteringintroduktion\\class\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCD4DBD5-524D-4A2A-B72F-FDAC8030271A}|DemoObjectorienteringIntroduktion\\DemoObjectorienteringIntroduktion.csproj|c:\\users\\sam\\desktop\\cloudazure-jensen\\demoobjectorienteringintroduktion\\demoobjectorienteringintroduktion\\formcreateuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FCD4DBD5-524D-4A2A-B72F-FDAC8030271A}|DemoObjectorienteringIntroduktion\\DemoObjectorienteringIntroduktion.csproj|solutionrelative:demoobjectorienteringintroduktion\\formcreateuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormCreateUser.cs",
+              "DocumentMoniker": "C:\\Users\\Sam\\Desktop\\CloudAzure-Jensen\\DemoObjectorienteringIntroduktion\\DemoObjectorienteringIntroduktion\\FormCreateUser.cs",
+              "RelativeDocumentMoniker": "DemoObjectorienteringIntroduktion\\FormCreateUser.cs",
+              "ToolTip": "C:\\Users\\Sam\\Desktop\\CloudAzure-Jensen\\DemoObjectorienteringIntroduktion\\DemoObjectorienteringIntroduktion\\FormCreateUser.cs",
+              "RelativeToolTip": "DemoObjectorienteringIntroduktion\\FormCreateUser.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T09:13:48.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Sam\\Desktop\\CloudAzure-Jensen\\DemoObjectorienteringIntroduktion\\DemoObjectorienteringIntroduktion\\Class\\User.cs",
+              "RelativeDocumentMoniker": "DemoObjectorienteringIntroduktion\\Class\\User.cs",
+              "ToolTip": "C:\\Users\\Sam\\Desktop\\CloudAzure-Jensen\\DemoObjectorienteringIntroduktion\\DemoObjectorienteringIntroduktion\\Class\\User.cs",
+              "RelativeToolTip": "DemoObjectorienteringIntroduktion\\Class\\User.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T08:57:55.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormCreateUser.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Sam\\Desktop\\CloudAzure-Jensen\\DemoObjectorienteringIntroduktion\\DemoObjectorienteringIntroduktion\\FormCreateUser.cs",
+              "RelativeDocumentMoniker": "DemoObjectorienteringIntroduktion\\FormCreateUser.cs",
+              "ToolTip": "C:\\Users\\Sam\\Desktop\\CloudAzure-Jensen\\DemoObjectorienteringIntroduktion\\DemoObjectorienteringIntroduktion\\FormCreateUser.cs [Design]",
+              "RelativeToolTip": "DemoObjectorienteringIntroduktion\\FormCreateUser.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T08:54:08.112Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
